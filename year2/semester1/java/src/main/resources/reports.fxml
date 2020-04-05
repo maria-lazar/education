@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="controller.ReportsController"
+            prefHeight="600.0" prefWidth="700.0">
+    <children>
+        <HBox prefHeight="600" prefWidth="700" spacing="50" AnchorPane.rightAnchor="20">
+            <children>
+                <TableView fx:id="studentsTableView" prefHeight="300" prefWidth="450">
+                    <columns>
+                        <TableColumn fx:id="nameColumn" prefWidth="150" text="Name"/>
+                        <TableColumn fx:id="groupColumn" prefWidth="150" text="Group"/>
+                        <TableColumn fx:id="gradeColumn" prefWidth="150" text="Grade"/>
+                    </columns>
+                </TableView>
+                <VBox prefHeight="600">
+                    <VBox prefHeight="100"/>
+                    <VBox spacing="50">
+                        <Button fx:id="gradeButton" prefWidth="160" text="Grades" onAction="#handleGrades"/>
+                        <Button fx:id="assignmentButton" prefWidth="160" text="Most difficult"
+                                onAction="#handleDifficultAssignment"/>
+                        <TextField fx:id="assignmentTextField" prefWidth="160"/>
+                        <Button fx:id="examButton" prefWidth="160" text="Grade >= 4"
+                                onAction="#handleExam"/>
+                        <Button fx:id="onTimeStudentsButton" prefWidth="160" text="On time"
+                                onAction="#handleOnTime"/>
+                    </VBox>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</AnchorPane>

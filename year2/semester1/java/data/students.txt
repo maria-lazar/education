@@ -1,0 +1,5 @@
+1,lazar,maria,224,m@gmail.com,a
+2,ion,dan,225,m,m
+3,pop,vasile,225,v@gmail.com,a
+4,muresan,george,228,g@gmail.com,b
+5,popa,mihai,227,a,a

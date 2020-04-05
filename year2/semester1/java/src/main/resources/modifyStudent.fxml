@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="controller.EditStudentController"
+            prefHeight="500.0" prefWidth="500.0">
+    <children>
+        <VBox prefWidth="500" prefHeight="500">
+            <GridPane prefHeight="400" prefWidth="500" alignment="CENTER">
+                <children>
+                    <Label prefWidth="180" prefHeight="50" text="Id"/>
+                    <Label prefWidth="180" prefHeight="50" text="First Name" GridPane.rowIndex="1"/>
+                    <Label prefWidth="180" prefHeight="50" text="Last Name" GridPane.rowIndex="2"/>
+                    <Label prefWidth="180" prefHeight="50" text="Group" GridPane.rowIndex="3"/>
+                    <Label prefWidth="180" prefHeight="50" text="Email" GridPane.rowIndex="4"/>
+                    <Label prefWidth="180" prefHeight="50" text="Professor" GridPane.rowIndex="5"/>
+                    <TextField fx:id="idTextField" prefHeight="45" prefWidth="180" GridPane.columnIndex="1"/>
+                    <TextField fx:id="firstNameTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="1"
+                               GridPane.columnIndex="1"/>
+                    <TextField fx:id="lastNameTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="2"
+                               GridPane.columnIndex="1"/>
+                    <TextField fx:id="groupTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="3"
+                               GridPane.columnIndex="1"/>
+                    <TextField fx:id="emailTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="4"
+                               GridPane.columnIndex="1"/>
+                    <TextField fx:id="professorTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="5"
+                               GridPane.columnIndex="1"/>
+                </children>
+            </GridPane>
+            <HBox prefWidth="200" prefHeight="50" alignment="CENTER" spacing="30">
+                <children>
+                    <Button mnemonicParsing="false" prefHeight="50" prefWidth="100" onAction="#handleSave" text="Save"/>
+                    <Button mnemonicParsing="false" prefHeight="50" prefWidth="100"  onAction="#handleCancel" text="Cancel"/>
+                </children>
+            </HBox>
+        </VBox>
+    </children>
+</AnchorPane>

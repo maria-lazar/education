@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="controller.ConfirmGradeController"
+            prefHeight="400.0" prefWidth="600.0">
+    <children>
+        <VBox prefWidth="500" prefHeight="500">
+            <children>
+                <GridPane prefHeight="400" prefWidth="500" alignment="CENTER">
+                    <children>
+                        <Label prefWidth="180" prefHeight="50" text="Student"/>
+                        <Label prefWidth="180" prefHeight="50" text="Assignment"
+                               GridPane.rowIndex="1"/>
+                        <Label prefWidth="180" prefHeight="50" text="Grade"
+                               GridPane.rowIndex="2"/>
+                        <Label prefWidth="180" prefHeight="50" text="Excused"
+                               GridPane.rowIndex="3"/>
+                        <Label prefWidth="180" prefHeight="50" text="Penalty"
+                               GridPane.rowIndex="4"/>
+                        <TextField fx:id="studentTextField" prefHeight="45" prefWidth="180" GridPane.columnIndex="1"/>
+                        <TextField fx:id="assignmentTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="1"
+                                   GridPane.columnIndex="1"/>
+                        <TextField fx:id="gradeTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="2"
+                                   GridPane.columnIndex="1"/>
+                        <TextField fx:id="excusedTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="3"
+                                   GridPane.columnIndex="1"/>
+
+                        <TextField fx:id="penaltyTextField" prefHeight="45" prefWidth="180" GridPane.rowIndex="4"
+                                   GridPane.columnIndex="1"/>
+                    </children>
+                </GridPane>
+                <HBox prefWidth="200" prefHeight="50" alignment="CENTER" spacing="50">
+                    <children>
+                        <Button mnemonicParsing="false" prefHeight="50" prefWidth="100" onAction="#handleConfirm"
+                                text="Confirm"/>
+                        <Button mnemonicParsing="false" prefHeight="50" prefWidth="100" onAction="#handleCancel"
+                                text="Cancel"/>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </children>
+</AnchorPane>

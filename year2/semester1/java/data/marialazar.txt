@@ -1,0 +1,60 @@
+
+Assignment: 2
+Grade: 8.0
+Week: 6
+Deadline: 4
+Feedback: 
+
+Assignment: 4
+Grade: 10.0
+Week: 6
+Deadline: 6
+Feedback: 
+
+Assignment: 3
+Grade: 8.0
+Week: 7
+Deadline: 5
+Feedback: 
+
+Assignment: 5
+Grade: 10.0
+Week: 7
+Deadline: 7
+Feedback: bine
+
+Assignment: 1
+Grade: 9.0
+Week: 3
+Deadline: 2
+Feedback: NOTA A FOST DIMINUATA CU 1 PUNCTE DATORITA INTARZIERILOR
+
+Assignment: 2
+Grade: 10.0
+Week: 4
+Deadline: 4
+Feedback: 
+
+Assignment: 3
+Grade: 10.0
+Week: 5
+Deadline: 5
+Feedback: 
+
+Assignment: 6
+Grade: 9.0
+Week: 10
+Deadline: 9
+Feedback: NOTA A FOST DIMINUATA CU 1 PUNCTE DATORITA INTARZIERILOR
+
+Assignment: 7
+Grade: 10.0
+Week: 10
+Deadline: 10
+Feedback: 
+
+Assignment: 8
+Grade: 10.0
+Week: 11
+Deadline: 11
+Feedback: 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <assignment id="1">
+        <description>b</description>
+        <startWeek>5</startWeek>
+        <deadlineWeek>7</deadlineWeek>
+    </assignment>
+    <assignment id="2">
+        <description>b</description>
+        <startWeek>3</startWeek>
+        <deadlineWeek>4</deadlineWeek>
+    </assignment>
+    <assignment id="3">
+        <description>b</description>
+        <startWeek>1</startWeek>
+        <deadlineWeek>2</deadlineWeek>
+    </assignment>
+</entities>

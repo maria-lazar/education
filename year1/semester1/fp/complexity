@@ -1,0 +1,10 @@
+Comlexitate ca si timp: functia find_by_id()(din repository/course_repository):
+
+    - Caz favorabil: primul element din lista e cel cautat, deci se intra in for o singura data
+        -> complexitate T(n) = 1 ∈ 𝛳(1)
+    - Caz defavorabil: nu exista elementul cautat, deci se executa for de n ori(n = len(self.courses))
+        -> complexitate T(n) = n ∈ 𝛳(n)
+    - Caz mediu: for poate fi executat de 1, 2, ..., n ori, deci nr de pasi e nr mediu de iteratii:
+        -> complexitate T(n) = (1 + 2 + ... + n)/n = (n + 1)/2 ∈ 𝛳(n)
+
+Deci complexitatea e O(n)

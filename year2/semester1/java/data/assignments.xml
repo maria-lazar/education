@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <assignment id="1">
+        <description>lab 1</description>
+        <startWeek>1</startWeek>
+        <deadlineWeek>2</deadlineWeek>
+    </assignment>
+    <assignment id="2">
+        <description>lab 2</description>
+        <startWeek>2</startWeek>
+        <deadlineWeek>4</deadlineWeek>
+    </assignment>
+    <assignment id="3">
+        <description>lab 3</description>
+        <startWeek>4</startWeek>
+        <deadlineWeek>5</deadlineWeek>
+    </assignment>
+    <assignment id="4">
+        <description>lab 4</description>
+        <startWeek>5</startWeek>
+        <deadlineWeek>6</deadlineWeek>
+    </assignment>
+    <assignment id="5">
+        <description>lab 5</description>
+        <startWeek>6</startWeek>
+        <deadlineWeek>7</deadlineWeek>
+    </assignment>
+    <assignment id="6">
+        <description>lab 6</description>
+        <startWeek>7</startWeek>
+        <deadlineWeek>9</deadlineWeek>
+    </assignment>
+    <assignment id="7">
+        <description>lab 7</description>
+        <startWeek>9</startWeek>
+        <deadlineWeek>10</deadlineWeek>
+    </assignment>
+    <assignment id="8">
+        <description>lab 8</description>
+        <startWeek>10</startWeek>
+        <deadlineWeek>11</deadlineWeek>
+    </assignment>
+    <assignment id="9">
+        <description>lab 9</description>
+        <startWeek>11</startWeek>
+        <deadlineWeek>13</deadlineWeek>
+    </assignment>
+</entities>
