@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f943a91f-030f-44b2-9ec2-5005d745ee20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.h" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosReadOnlyGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosReadOnlyGui.cpp" afterDir="false" />
@@ -56,6 +57,8 @@
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/testMovie.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/ui.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/vc141.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Movie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Movie.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Vector.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/ui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/ui.cpp" afterDir="false" />
@@ -75,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="568">
-                <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+              <first_editor relative-caret-position="619">
+                <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,6 +135,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -165,15 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586108352966</updated>
-      <workItem from="1586108355273" duration="6338000" />
+      <workItem from="1586108355273" duration="7000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6338000" />
+    <option name="totallyTimeSpent" value="7000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -202,8 +206,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="568">
-            <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+          <first_editor relative-caret-position="619">
+            <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           </first_editor>
           <second_editor />
         </state>
