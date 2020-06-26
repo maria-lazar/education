@@ -34,7 +34,7 @@ Data Structures and Algorithms
     - data structure: Hash Table
     - Case study: Set  
 
-###Year 2
+### Year 2
 
 Advanced Programming Methods
 
@@ -50,3 +50,4 @@ Advanced Programming Methods
     - Layered architecture: console user interface, service, repository, domain, validation
     - Patterns: Decorator, Factory, Singleton, etc
     - Case study: Manage basketball tournament
+
