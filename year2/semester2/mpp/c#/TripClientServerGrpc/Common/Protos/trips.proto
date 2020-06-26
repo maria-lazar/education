@@ -1,0 +1,71 @@
+syntax = "proto3";
+option java_multiple_files = true;
+option java_package = "tripsGrpc";
+option csharp_namespace = "tripsGrpc";
+option java_outer_classname = "TripsProto";
+option objc_class_prefix = "HLW";
+
+package tripsGrpc;
+
+message Account {
+    int32 id = 1;
+    string name = 2;
+    string password = 3;
+}
+message Trip {
+    int32 id = 1;
+    string landmark = 2;
+    string companyName = 3;
+    double departureTime = 4;
+    float price = 5;
+    int32 availablePlaces = 6;
+    int32 start = 7;
+    int32 end = 8;
+}
+
+message Booking {
+    int32 id = 1;
+    Account account = 2;
+    Trip trip = 3;
+    string client = 4;
+    string phone = 5;
+    int32 numTickets = 6;
+}
+
+service TripServices {
+    rpc GetAccountByNamePassword (Request) returns (Response) {
+    }
+    rpc GetAllTrips (Request) returns (Response) {
+    }
+    rpc GetTripsByLandmarkDepartureHour (Request) returns (Response) {
+    }
+    rpc Logout (Request) returns (Response) {
+    }
+    rpc AddBooking (Request) returns (Response) {
+    }
+    rpc Register (Request) returns (stream Response) {
+    }
+}
+
+message Request {
+    oneof data {
+        Account account = 1;
+        Trip trip = 2;
+        Booking booking = 3;
+        string error = 4;
+    }
+}
+
+message Response {
+    enum ResponseType {
+        UNIVERSAL = 0;
+        OK = 1;
+        ERROR = 2;
+    }
+    ResponseType type = 1;
+    Account account = 2;
+    repeated Trip trips = 3;
+    Booking booking = 4;
+    string error = 5;
+}
+
