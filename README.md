@@ -58,7 +58,7 @@
     - Distributed application: client-server model
     - Client: GUI JavaFX
     - Communication protocol: RPC
-    - Sockets(TCP/IP), Multithreading
+    - Sockets(TCP/IP), Multithreading, Proxy pattern
     - Persistence: MySQL database
     - Case study: Trip booking system
     
@@ -67,7 +67,7 @@
     - Distributed application: client-server model
     - Client: Windows Forms Application
     - Communication protocol: RPC
-    - Sockets, Multithreading
+    - Sockets, Multithreading, Proxy pattern
     - Persistence: MySQL database
     - Case study: Trip booking system 
     
