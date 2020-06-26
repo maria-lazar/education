@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.spring.bugs.server.controller.tester.TesterController">
+    <children>
+        <ListView fx:id="applicationListView" layoutX="68.0" layoutY="47.0" prefHeight="223.0" prefWidth="218.0" />
+        <Button fx:id="registerBtn" layoutX="372.0" layoutY="67.0" mnemonicParsing="false" onAction="#handleRegister" prefHeight="34.0" prefWidth="130.0" text="Register bugs" />
+        <Button fx:id="deleteBtn" layoutX="372.0" layoutY="150.0" mnemonicParsing="false" onAction="#handleDelete" prefHeight="34.0" prefWidth="130.0" text="Delete bugs" />
+        <Button fx:id="logoutBtn" layoutX="372.0" layoutY="315.0" mnemonicParsing="false" onAction="#handleLogout" prefHeight="34.0" prefWidth="130.0" text="Logout" />
+      <Label layoutX="76.0" layoutY="14.0" text="Apps">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

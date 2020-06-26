@@ -1,0 +1,30 @@
+img {
+    margin: 10px;
+}
+
+#images {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+#content {
+    margin-bottom: 50px;
+}
+
+form {
+    margin-bottom: 100px;
+}
+
+img {
+    height: 256px;
+    width: 256px;
+}
+
+.image {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 50px;
+}

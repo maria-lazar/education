@@ -1,0 +1,19 @@
+h1 {
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
+.user {
+    margin: 100px;
+    font-size: 20px;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+}
+
+p {
+    font-size: 20px;
+    padding: 9px;
+}

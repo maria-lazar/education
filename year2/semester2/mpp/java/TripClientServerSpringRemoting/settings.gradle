@@ -1,0 +1,5 @@
+rootProject.name = 'TripClientServerSpringRemoting'
+include 'TripClient'
+include 'TripCommon'
+include 'TripServer'
+

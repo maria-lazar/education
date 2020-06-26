@@ -1,0 +1,4 @@
+rootProject.name = 'bugs-client-server'
+include 'bugs-client'
+include 'bugs-common'
+

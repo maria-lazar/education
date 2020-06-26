@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Problema 3</title>
+    <style>
+        #board {
+            display: grid;
+            grid-template-columns: repeat(4, 70px);
+            grid-auto-rows: 70px;
+            border-top: 1px solid black;
+            border-left: 1px solid black;
+            width: fit-content;
+        }
+
+        .card {
+            border-bottom: 1px solid black;
+            border-right: 1px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card-elem {
+            visibility: hidden;
+        }
+
+        img {
+            max-height: 70px;
+            max-width: 70px;
+        }
+
+        button {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+<div id="board">
+
+</div>
+<button onclick="start()">Restart</button>
+<p id="message"></p>
+<script src="pb3v2.js" type="text/javascript"></script>
+<script>
+    start();
+</script>
+</body>
+</html>
