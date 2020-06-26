@@ -1,0 +1,1 @@
+export const TRIPS_BASE_URL = "http://localhost:8080/trips";

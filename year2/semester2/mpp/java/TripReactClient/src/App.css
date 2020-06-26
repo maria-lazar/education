@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 75px 150px;
+}
+
+.TripTable {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.TripTable td, th {
+    text-align: left;
+    border: 1px solid;
+    padding: 5px;
+}
+
+form {
+    margin-left: 100px;
+    align-self: center;
+    text-align: center;
+}
+
+.formInput {
+    display: grid;
+    grid-template-columns: 150px 200px;
+    margin: 5px;
+}
