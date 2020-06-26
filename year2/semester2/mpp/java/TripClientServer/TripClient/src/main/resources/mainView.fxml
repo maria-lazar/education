@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainController">
+    <children>
+        <TableView fx:id="tripsTable" layoutY="1.0" prefHeight="226.0" prefWidth="500.0">
+            <columns>
+                <TableColumn fx:id="landmarkColumn" prefWidth="100.0" text="Landmark"/>
+                <TableColumn fx:id="companyColumn" prefWidth="100.0" text="Company"/>
+                <TableColumn fx:id="departureColumn" prefWidth="150.0" text="Departure"/>
+                <TableColumn fx:id="priceColumn" prefWidth="75.0" text="Price"/>
+                <TableColumn fx:id="placesColumn" prefWidth="75.0" text="Places"/>
+            </columns>
+        </TableView>
+        <Label layoutX="564.0" layoutY="250.0" text="Landmark"/>
+        <TextField fx:id="landmarkText" layoutX="637.0" layoutY="246.0"/>
+        <Label layoutX="564.0" layoutY="299.0" text="Between"/>
+        <TextField fx:id="startHourText" layoutX="637.0" layoutY="293.0" prefWidth="50.0"/>
+        <Label layoutX="701.0" layoutY="299.0" text="and"/>
+        <TextField fx:id="endHourText" layoutX="735.0" layoutY="293.0" prefWidth="50.0"/>
+        <Label layoutX="570.0" layoutY="310.0" text="(hour)"/>
+        <Button fx:id="searchButton" layoutX="828.0" layoutY="277.0" mnemonicParsing="false"
+                onAction="#handleSearchTrip" prefHeight="26.0" prefWidth="75.0" text="Search"/>
+        <TableView fx:id="searchTripsTable" layoutX="552.0" layoutY="1.0" prefHeight="226.0" prefWidth="405.0">
+            <columns>
+                <TableColumn fx:id="searchCompanyColumn" prefWidth="100.0" text="Company"/>
+                <TableColumn fx:id="searchPriceColumn" prefWidth="75.0" text="Price"/>
+                <TableColumn fx:id="searchDepartureColumn" prefWidth="150.0" text="Departure"/>
+                <TableColumn fx:id="searchPlacesColumn" prefWidth="75.0" text="Places"/>
+            </columns>
+        </TableView>
+        <Label layoutX="64.0" layoutY="243.0" text="Client Name"/>
+        <TextField fx:id="clientNameText" layoutX="167.0" layoutY="239.0"/>
+        <Label layoutX="64.0" layoutY="283.0" text="Phone"/>
+        <TextField fx:id="phoneText" layoutX="167.0" layoutY="279.0"/>
+        <Label layoutX="64.0" layoutY="319.0" text="No tickets"/>
+        <TextField fx:id="numOfTicketsText" layoutX="167.0" layoutY="315.0"/>
+        <Button fx:id="bookButton" layoutX="360.0" layoutY="278.0" mnemonicParsing="false" onAction="#handleBooking"
+                prefHeight="26.0" prefWidth="75.0" text="Book"/>
+        <Button fx:id="logoutButton" layoutX="445.0" layoutY="350.0" mnemonicParsing="false" onAction="#handleLogout"
+                prefHeight="36.0" prefWidth="110.0" text="Log Out"/>
+    </children>
+</AnchorPane>

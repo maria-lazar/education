@@ -1,0 +1,5 @@
+rootProject.name = 'TripClientServer'
+include 'TripClient'
+include 'TripServer'
+include 'TripCommon'
+
