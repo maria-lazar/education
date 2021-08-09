@@ -2,101 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f943a91f-030f-44b2-9ec2-5005d745ee20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.h" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosCRUDGui.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosReadOnlyGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/CosReadOnlyGui.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/Debug/moc_CosCRUDGui.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/Debug/moc_QtGuiMoviesApp.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/Debug/moc_QtGuiMoviesDetails.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/Debug/moc_QtGuiMoviesInputStore.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/Debug/moc_QtGuiMoviesList.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/qrc_QtGuiMoviesApp.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/GeneratedFiles/ui_QtGuiMoviesApp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/MovieService.h" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/MovieService.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/QtGuiMoviesList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/QtGuiMoviesList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/bag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/bag.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/in.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/CosCRUDGui.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/CosReadOnlyGui.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/Movie.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/MovieRepository.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/MovieService.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.Build.CppClean.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/CL.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/CL.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/CL.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/QtGuiMoviesApp.lastbuildstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/QtGuiMoviesApp.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/link.command.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/link.read.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/link.write.1.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/moc.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/moc.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/rcc.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/rcc.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/uic.read.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesApp.tlog/uic.write.1u.tlog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesDetails.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesInputStore.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/QtGuiMoviesList.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/ShoppingRepository.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/TableViewModel.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/TestService.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/moc_CosCRUDGui.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/moc_QtGuiMoviesApp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/moc_QtGuiMoviesDetails.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/moc_QtGuiMoviesInputStore.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/moc_QtGuiMoviesList.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/qrc_QtGuiMoviesApp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/qt_work.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/testMovie.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/ui.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp-gui/QtGuiMoviesApp/x64/Debug/vc141.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Movie.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Movie.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/Vector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/ui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies/ui.cpp" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="619">
-                <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -108,31 +23,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
+  <component name="ProjectId" id="1wUPPIipPLJnkAS6DaWtJq0uBhD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="education" type="b2602c69:ProjectViewProjectNode" />
-              <item name="education" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -146,19 +42,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -170,48 +56,11 @@
       <option name="presentableId" value="Default" />
       <updated>1586108352966</updated>
       <workItem from="1586108355273" duration="7000000" />
+      <workItem from="1628510172568" duration="5521000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7000000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24983476" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="619">
-            <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <option name="version" value="3" />
   </component>
 </project>

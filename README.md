@@ -168,4 +168,83 @@
     - Python
     - Unsupervised learning: classification problem
     - Case study: Emotion detection in text
+   
+### Year 3
+
+#### Audio-Video Data Processing 
+
+- [Video encoder and decoder]()
+    - Java
+    
+#### Mobile Applications
+
+- [Hybrid app - Ionic React]()
+    - Ionic React (TypeScript): components, state & lifecycle, reducers, context providers, hooks, web sockets, background tasks
+    - Capacitor
+    - Remote and local data persistence
+    - Communication with REST services: Axios
+    - Usage of device features: camera, file system, location, network 
+    - Authentication: JWT standard
+    - Animations
+    - Case study: Pet adoption app
+
+- [NodeJS REST services]()
+    - Koa (NodeJS)
+    - JWT authentication
+    - Web socket: push notifications
+    - Case study: for the Pet adoption mobile app
+
+- [Android app]()
+    - Android (Kotlin): components, work manager, lifecycles, architecture
+    - Authentication: JWT standard
+    - Remote and local data persistence
+    - Communication with REST services: Retrofit
+    - Local persistence: Room library
+    - Case study: Pet adoption app
+    
+#### Parallel and distributed programming
+
+- [Java client-server app]()
+    - Java: all language features
+    - Distributed application: client-server model
+    - Sockets(TCP/IP), Proxy pattern
+    - Multithreading: thread pool, promise
+    - Case study: Show reservations
+
+- [Java producer-consumer]()
+    - Java: all language features
+    - Producer-consumer problem: blocking queue, fine-grained synchronized linked list
+    - Case study: Sum of polynomials
+
+#### Group project
+
+- [NoteIT](https://github.com/PC-Work-in-Progress/Proiect_Colectiv)
+    - Notes management platform
+    - Frontend: Ionic React (TypeScript)
+    - Backend: Spring (Java)
+    - Persistence: Postgres
+
+#### Blockchain: Smart Contracts
+
+- [Ethereum smart contract](https://github.com/NewBestX/BlockchainRidesharing)
+    - Solidity: basic features
+    - Ethereum blockchain: basic features
+    - Case study: Ride sharing platform
+
+#### Software systems testing
+
+- [Testing Java app](https://github.com/lzradrian/Avengers_lair2539)
+    - Unit tests
+    - Integration tests
+    - JUnit, Mockito
+    - Case study: Pizza shop
+
+- [Testing Web app]()
+    - Serenity, Selenium
+    - Automated use case tests: pages, steps
+    - Case study: testing [Pet adoption app]()
+    
+
+
+    
     
