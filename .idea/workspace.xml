@@ -20,8 +20,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f943a91f-030f-44b2-9ec2-5005d745ee20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/year1/semester2/oop/cpp/new_movies.sln" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/db/pets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/db/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607779797475.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607779824314.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607782062518.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607782287929.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607895647372.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607895746933.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1607895837735.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1608113507276.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/photos/1608114201428.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/auth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/auth/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/auth/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/pet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/pet/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/pet/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/utils/middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/node-server-pet/src/utils/wss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/capacitor.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/ionic.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/public/assets/icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/public/assets/icon/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/public/assets/shapes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/auth/AuthProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/auth/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/auth/PrivateRoute.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/auth/authApi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/auth/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/core/Network.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/core/NetworkProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/core/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/core/useNetwork.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/location/Map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/location/MapPopover.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/location/MyMap.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/location/mapsApiKey.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/BackModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/Pet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/Pet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/PetList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/PetProfile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/PetProps.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/PetProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/petadoption/petApi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/photo/usePhotoGallery.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/src/theme/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/am/petAdoption/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/nt-P3.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/out.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/p.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/domain/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/domain/P3Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/util/DecoderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/util/EncoderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/year3/semester1/pdav/src/main/java/util/IOUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +120,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1wUPPIipPLJnkAS6DaWtJq0uBhD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/year1/semester2/oop/cpp-gui" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +143,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/year1/semester2/oop/cpp-gui" />
+      <recent name="$PROJECT_DIR$/year1/semester2/oop/cpp" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -75,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586108352966</updated>
       <workItem from="1586108355273" duration="7000000" />
-      <workItem from="1628510172568" duration="6009000" />
+      <workItem from="1628510172568" duration="7064000" />
     </task>
     <servers />
   </component>
@@ -92,5 +179,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

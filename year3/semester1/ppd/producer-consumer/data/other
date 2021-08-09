@@ -1,0 +1,71 @@
+public void addMonom(int exp, int coeff, int i) {
+        System.out.println("Thread "  + Thread.currentThread());
+        System.out.println("Thread " + i + " : " + coeff + "x^" + exp);
+        Node pred, current;
+        lock.lock();
+        try {
+            System.out.println("Thread " + i + "lock this");
+            if (first == null) {
+                first = new Node(exp, coeff, null);
+                System.out.println("Thread " + i + "added " + first);
+                return;
+            } else {
+                pred = first;
+                current = pred.getNext();
+                pred.lock();
+                System.out.println("Thread " + i + "lock " + first);
+            }
+        } finally {
+            System.out.println("Thread " + i + "unlock this");
+            lock.unlock();
+        }
+        if (exp > pred.getExponent()) {
+            first = new Node(exp, coeff, pred);
+            System.out.println("Thread " + i + " added " + pred);
+            pred.unlock();
+            System.out.println("Thread " + i + "unlock first" + pred);
+            return;
+        }
+        if (exp == pred.getExponent()) {
+            first.setCoefficient(pred.getCoefficient() + coeff);
+            System.out.println("Thread " + i + " updated " + pred);
+            pred.unlock();
+            System.out.println("Thread " + i + "unlock first" + pred);
+            return;
+        }
+        if (current != null) {
+            current.lock();
+            System.out.println("Thread " + i + "lock " + current);
+        }
+        while (current != null && exp < current.getExponent()) {
+            Node oldPred = pred;
+            pred = current;
+            current = pred.getNext();
+            oldPred.unlock();
+            System.out.println("Thread " + i + "unlock pred " + oldPred);
+            if (current != null) {
+                current.lock();
+                System.out.println("Thread " + i + "lock " + current);
+            }
+        }
+        if (current != null && current.getExponent() == exp) {
+            current.setCoefficient(current.getCoefficient() + coeff);
+            System.out.println("Thread " + i + " updated " + current);
+            current.unlock();
+            pred.unlock();
+            System.out.println("Thread " + i + "unlock current " + current);
+            return;
+        }
+        Node createdNode = new Node(exp, coeff, current);
+        pred.setNext(createdNode);
+        System.out.println("Thread " + i + " added " + createdNode);
+        if (current != null) {
+            pred.unlock();
+            System.out.println("Thread " + i + "unlock pred " + pred);
+            current.unlock();
+            System.out.println("Thread " + i + "unlock current " + current);
+        } else {
+            pred.unlock();
+            System.out.println("Thread " + i + "unlock pred " + pred);
+        }
+    }

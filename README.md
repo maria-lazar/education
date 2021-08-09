@@ -45,7 +45,7 @@
     - Patterns: MVC, Observer, Decorator, Factory, Singleton, etc
     - Case study: Manage grades
 
-- [C# CLI project](https://github.com/maria-lazar/education/tree/master/year2/semester1/c# "C# CLI project")
+- [C# CLI project](https://github.com/maria-lazar/education/tree/master/year2/semester1/c%23 "C# CLI project")
     - C#: all language features
     - Layered architecture: console user interface, service, repository, domain, validation
     - Patterns: Decorator, Factory, Singleton, etc
@@ -62,7 +62,7 @@
     - Persistence: MySQL database
     - Case study: Trip booking system
     
-- [C# client-server app](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c#/TripClientServer "Client-server C#")
+- [C# client-server app](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c%23/TripClientServer "Client-server C#")
     - C#: all language features
     - Distributed application: client-server model
     - Client: Windows Forms Application
@@ -90,7 +90,7 @@
     - Case study: Trip booking system 
     
 
-- [C# gRPC server app](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c#/TripClientServerGrpc "Server gRPC")
+- [C# gRPC server app](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c%23/TripClientServerGrpc "Server gRPC")
     - C#: all language features
     - Cross-platform app: Interface Definition Language, Protocol Buffers
     - Communication protocol: gRPC
@@ -107,7 +107,7 @@
     - Persistence: MySQL database
     - Case study: entity CRUD operations: Trip 
     
-- [C# REST client](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c#/TripRestClient "Client C# REST")
+- [C# REST client](https://github.com/maria-lazar/education/tree/master/year2/semester2/mpp/c%23/TripRestClient "Client C# REST")
     - Client: simple C# REST client
     - Case study: entity CRUD operations: Trip
 
@@ -173,12 +173,12 @@
 
 #### Audio-Video Data Processing 
 
-- [Video encoder and decoder]()
+- [Video encoder and decoder](https://github.com/maria-lazar/education/tree/master/year3/semester1/pdav)
     - Java
     
 #### Mobile Applications
 
-- [Hybrid app - Ionic React]()
+- [Hybrid app - Ionic React](https://github.com/maria-lazar/education/tree/master/year3/semester1/am/petAdoption)
     - Ionic React (TypeScript): components, state & lifecycle, reducers, context providers, hooks, web sockets, background tasks
     - Capacitor
     - Remote and local data persistence
@@ -188,13 +188,13 @@
     - Animations
     - Case study: Pet adoption app
 
-- [NodeJS REST services]()
+- [NodeJS REST services](https://github.com/maria-lazar/education/tree/master/year3/semester1/am/node-server-pet)
     - Koa (NodeJS)
     - JWT authentication
     - Web socket: push notifications
     - Case study: for the Pet adoption mobile app
 
-- [Android app]()
+- [Android app](https://github.com/maria-lazar/education/tree/master/year3/semester1/am/petAdoptionAndroid)
     - Android (Kotlin): components, work manager, lifecycles, architecture
     - Authentication: JWT standard
     - Remote and local data persistence

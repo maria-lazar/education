@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="spectacolRepository" class="repository.SpectacolRepository">
+        <constructor-arg index="0" value="Spectacol.txt"/>
+    </bean>
+
+    <bean id="salaRepository" class="repository.SalaRepository">
+        <constructor-arg index="0" value="Sala.txt"/>
+    </bean>
+
+    <bean id="vanzareRepository" class="repository.VanzareRepository">
+        <constructor-arg index="0" value="Vanzare.txt"/>
+    </bean>
+
+    <bean id="showServices" class="service.ShowServicesImpl">
+        <constructor-arg index="0" ref="spectacolRepository"/>
+        <constructor-arg index="1" ref="salaRepository"/>
+        <constructor-arg index="2" ref="vanzareRepository"/>
+    </bean>
+    <bean id="spectacolController" class="controller.SpectacolController">
+        <constructor-arg index="0" ref="showServices"/>
+    </bean>
+    <context:property-placeholder location="classpath:server.properties"/>
+    <bean id="concurrentServer" class="net.ConcurrentServer">
+        <constructor-arg index="0" value="${trip.server.port}"/>
+        <constructor-arg index="1" ref="spectacolController"/>
+    </bean>
+</beans>

@@ -1,0 +1,24 @@
+2021-01-05T18:57:55.565282 , corect -- spectacolId: 1
+2021-01-05T18:57:55.565282 , corect -- spectacolId: 2
+2021-01-05T18:57:55.565282 , corect -- spectacolId: 3
+
+2021-01-05T18:58:05.571079 , corect -- spectacolId: 1
+2021-01-05T18:58:05.571079 , corect -- spectacolId: 2
+2021-01-05T18:58:05.571079 , corect -- spectacolId: 3
+
+2021-01-05T18:58:15.577356 , corect -- spectacolId: 1
+2021-01-05T18:58:15.577356 , corect -- spectacolId: 2
+2021-01-05T18:58:15.577356 , corect -- spectacolId: 3
+
+2021-01-05T18:58:25.581483 , corect -- spectacolId: 1
+2021-01-05T18:58:25.581483 , corect -- spectacolId: 2
+2021-01-05T18:58:25.581483 , corect -- spectacolId: 3
+
+2021-01-05T18:58:35.587337 , corect -- spectacolId: 1
+2021-01-05T18:58:35.587337 , corect -- spectacolId: 2
+2021-01-05T18:58:35.587337 , corect -- spectacolId: 3
+
+2021-01-05T18:58:45.589803 , corect -- spectacolId: 1
+2021-01-05T18:58:45.589803 , corect -- spectacolId: 2
+2021-01-05T18:58:45.589803 , corect -- spectacolId: 3
+

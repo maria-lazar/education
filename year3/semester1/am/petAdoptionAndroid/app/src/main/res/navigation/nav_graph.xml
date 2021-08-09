@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/login_fragment">
+
+    <fragment
+        android:id="@+id/pet_list_fragment"
+        android:name="com.marialazar.petadoption.pet.pets.PetListFragment"
+        android:label="@string/pet_list_fragment_label"
+        tools:layout="@layout/fragment_pet_list">
+
+        <action
+            android:id="@+id/action_PetListFragment_to_PetEditFragment"
+            app:destination="@id/pet_edit_fragment" />
+        <action
+            android:id="@+id/action_PetListFragment_to_loginFragment"
+            app:destination="@id/login_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pet_edit_fragment"
+        android:name="com.marialazar.petadoption.pet.pet.PetEditFragment"
+        android:label="@string/pet_edit_fragment_label"
+        tools:layout="@layout/fragment_pet_edit">
+
+        <action
+            android:id="@+id/action_PetEditFragment_to_PetListFragment"
+            app:destination="@id/pet_list_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/login_fragment"
+        android:name="com.marialazar.petadoption.auth.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_PetListFragment"
+            app:destination="@id/pet_list_fragment" />
+    </fragment>
+</navigation>
