@@ -2,7 +2,7 @@
 ## Babes-Bolyai University Computer Science Student
 ### Year 1
 
-#### Fundammentals of programming
+#### Fundamentals of programming
 
 - [Python project](https://github.com/maria-lazar/education/tree/master/year1/semester1/fp "Python project")
   - Python: all language features
