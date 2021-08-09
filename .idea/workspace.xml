@@ -19,127 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f943a91f-030f-44b2-9ec2-5005d745ee20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/year3/semester2/blockchain/BlockchainRidesharing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/blockchain/BlockchainRidesharing/owner.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/blockchain/BlockchainRidesharing/ridesharing.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab01/ClassDiagramPizzaShop_v2.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab01/Lab01_ReviewReport.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab01/RequirementsPizzaShop_v2.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab02/234_req_spec-2021-03-21.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab02/234_test_spec-2021-03-21.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab02/Lab02_BBT_TCs_Form.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab03/234_test_spec-2021-04-04.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab03/Lab03_WBT_TCs_Form.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab04/234_req_spec-2021-04-19.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/Lab04/234_test_spec-2021-04-18.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/initial/ClassDiagram.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/initial/ClassDiagramDepPizzaShop_v1.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/initial/ClassDiagramPizzaShop_v1.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/initial/RequirementsPizzaShop_v1.0.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/Docs/initial/RequirementsPizzaShop_v1.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/PizzaShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/controller/KitchenGUIController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/controller/MainGUIController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/controller/OrdersGUIController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/controller/PaymentAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/controller/PaymentOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/gui/KitchenGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/gui/OrdersGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/model/MenuDataModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/model/PaymentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/repository/IMenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/repository/IPaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/repository/MenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/repository/PaymentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/repository/PaymentRepositoryMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/java/pizzashop/service/PizzaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/resources/data/menu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/resources/data/payments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/resources/fxml/OrdersGUIFXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/resources/fxml/kitchenGUIFXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/main/resources/fxml/mainFXML.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/model/PaymentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/repository/PaymentRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/service/PizzaServiceMockitoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/service/PizzaServiceStep2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/service/PizzaServiceStep3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/java-app/src/test/pizzashop/service/PizzaServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/capacitor.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/ionic.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/public/assets/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/public/assets/icon/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/public/assets/shapes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/auth/AuthProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/auth/Login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/auth/PrivateRoute.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/auth/authApi.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/auth/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/core/Network.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/core/NetworkProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/core/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/core/useNetwork.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/Pet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/Pet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/PetList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/PetProfile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/PetProps.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/PetProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/petadoption/petApi.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/photo/usePhotoGallery.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/serviceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/src/theme/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/build/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/build/main.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/db/pets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/db/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/auth/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/auth/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/auth/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/pet/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/pet/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/pet/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/utils/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/utils/middlewares.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/tested-web-app/vvss-server/src/utils/wss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/Lab5VVSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/features/search/AddDeleteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/features/search/LoginTestSuccessful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/features/search/LoginTestUnsuccessful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/features/search/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/pages/AddPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/pages/ListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/steps/serenity/AddSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/steps/serenity/ListSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/java/org/example/steps/serenity/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/resources/features/search/narrative.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/resources/loginData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year3/semester2/vvss/web-app/src/test/resources/loginDataWrong.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f943a91f-030f-44b2-9ec2-5005d745ee20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586108352966</updated>
       <workItem from="1586108355273" duration="7000000" />
-      <workItem from="1628510172568" duration="8972000" />
+      <workItem from="1628510172568" duration="9380000" />
     </task>
     <servers />
   </component>
