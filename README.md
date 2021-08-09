@@ -204,14 +204,14 @@
     
 #### Parallel and distributed programming
 
-- [Java client-server app]()
+- [Java client-server app](https://github.com/maria-lazar/education/tree/master/year3/semester1/ppd/client-server)
     - Java: all language features
     - Distributed application: client-server model
     - Sockets(TCP/IP), Proxy pattern
     - Multithreading: thread pool, promise
     - Case study: Show reservations
 
-- [Java producer-consumer]()
+- [Java producer-consumer](https://github.com/maria-lazar/education/tree/master/year3/semester1/ppd/producer-consumer)
     - Java: all language features
     - Producer-consumer problem: blocking queue, fine-grained synchronized linked list
     - Case study: Sum of polynomials
@@ -226,23 +226,37 @@
 
 #### Blockchain: Smart Contracts
 
-- [Ethereum smart contract](https://github.com/NewBestX/BlockchainRidesharing)
+- [Ethereum smart contract](https://github.com/maria-lazar/education/tree/master/year3/semester2/blockchain/BlockchainRidesharing)
     - Solidity: basic features
     - Ethereum blockchain: basic features
     - Case study: Ride sharing platform
 
 #### Software systems testing
 
-- [Testing Java app](https://github.com/lzradrian/Avengers_lair2539)
+- [Testing Java app](https://github.com/maria-lazar/education/tree/master/year3/semester2/vvss/java-app)
     - Unit tests
     - Integration tests
     - JUnit, Mockito
     - Case study: Pizza shop
 
-- [Testing Web app]()
+- [Testing Web app](https://github.com/maria-lazar/education/tree/master/year3/semester2/vvss/web-app)
     - Serenity, Selenium
     - Automated use case tests: pages, steps
-    - Case study: testing [Pet adoption app]()
+    - Case study: testing [Pet adoption app](https://github.com/maria-lazar/education/tree/master/year3/semester2/vvss/tested-web-app)
+    
+#### Diploma project
+
+- [Event Presence](https://github.com/maria-lazar/eventpresence)
+    - Automatic event attendance registration using:
+        - QR codes
+        - geofencing
+        - beacons
+        - Google Nearby technology
+    - Mobile client: Android
+    - Backend: Firebase (auth, storage, realtime database)
+    - Google Calendar integration
+    - Authentication: Google accounts
+    - Beacons: Kontakt.io (iBeacon protocol)
     
 
 

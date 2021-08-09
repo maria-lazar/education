@@ -1,0 +1,81 @@
+.pet-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 1rem;
+}
+
+.pet-name {
+    font-size: 1.3rem;
+    margin-bottom: 0.7rem;
+    margin-top: 0.5rem;
+}
+
+.pet-icon-list {
+    font-size: 70px;
+    margin-right: 10px;
+    color: #9d9fa6;
+}
+
+.pet-photo-list {
+    width: 70px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    margin-right: 10px;
+}
+
+.pet-image-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.pet-date {
+    font-size: 0.9rem;
+}
+
+.not-saved-icon {
+    color: red;
+    margin-left: 2px;
+}
+
+.pet-icon {
+    font-size: 120px;
+    color: #9d9fa6;
+}
+
+.pet-photo {
+}
+
+.change-photo {
+}
+
+.pet-chip {
+    font-size: smaller;
+}
+
+.photo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.location-btn {
+
+}
+
+.transparent {
+    opacity: 0;
+}
+
+.page {
+    text-align: center;
+}
+
+.modal-container {
+    margin-top: 50px;
+}

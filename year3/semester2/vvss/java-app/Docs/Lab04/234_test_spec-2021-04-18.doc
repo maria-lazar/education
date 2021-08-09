@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><title>testspec Prj234 - lair2539_IntT</title>
+<link type="text/css" rel="stylesheet" href="http://localhost/testlink/gui/themes/default/css/tl_documents.css" />
+<style type="text/css" media="print">.notprintable { display:none;}</style>
+</head>
+<body>
+<div>
+<div style="float:right;">TestLink Community [configure $tlCfg-&gt;document_generator-&gt;company_name]</div>
+<div>&nbsp;</div><hr />
+<p style="text-align: center;"><img alt="TestLink logo" title="configure using $tlCfg->document_generator->company_logo"  width=231 height=56 src="http://localhost/testlink/gui/themes/default/images/tl-logo-transparent-25.png" /></p></div>
+<div class="doc_title"><p>Test Specification</p></div>
+<div class="doc_title" style="text-align:left;margin: auto;"><p>Test Project: Prj234<br/>Test Suite: Prj234 - lair2539_IntT</p></div>
+<div class="summary"><p id="printedby">Printed by TestLink on 18/04/2021</p></div>
+<div class="pagefooter" id="copyright">2012 &copy; TestLink Community</div>
+<h1 class="general" style="page-break-before: always">Table Of Contents</h1><div class="toc"><p style="padding-left: 20px;"><b><a href="#toc_1">1.lair2539_IntT</a></b></p>
+<p style="padding-left: 45px;"><a href="#toc_tc6928">234-67: Step1</a></p><p style="padding-left: 45px;"><a href="#toc_tc6930">234-68: Step2</a></p><p style="padding-left: 45px;"><a href="#toc_tc6932">234-69: Step3</a></p></div><h1 class="doclevel" >Scope</h1>
+<div class="txtlevel"><p>project for group 234</p></div>
+ <br/><a name='toc_1'></a>
+<h1 class='doclevel'>1.Test Suite : lair2539_IntT</h1>
+<a name="toc_tc6928"></a><p>&nbsp;</p><div> <table class="tc" width="90%" ><tr><th colspan="4">Test Case 234-67: Step1&nbsp;<span style="font-size: 80%;">[Version  : 1]</span></th></tr>
+<tr><td width="20%" valign="top"><span class="label">Author:</span></td><td colspan="3">lair2539</td></tr>
+<tr><td colspan="4"><span class="label">Summary:</span><br /><p>Metoda pentru clasa Payment: getTableNumber_succeed</p>
+</td></tr><tr><td width="20%" valign="top"><span class="label">Execution type:</span></td><td colspan="3">Automated</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Estimated exec. duration (min):</span></td><td colspan="3"></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Importance:</span></td><td colspan="3">Medium</td></tr>
+<tr><td colspan="4"></td></tr><tr><td > name of the autotest class:</td><td  colspan = "3" >pizzashop.model.PaymentTest</td></tr>
+<tr><td > name of the test method:</td><td  colspan = "3" >pizzashop.model.PaymentTest#getTableNumber_succeed</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Requirements</span><td colspan="3">lair2539_F01:  AdăugareaUneiPlatiNoi [Version : 1]<br /></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Keywords:</span></td><td colspan="3">&nbsp;None<br/></td></tr>
+</table>
+</div>
+<a name="toc_tc6930"></a><p>&nbsp;</p><div> <table class="tc" width="90%" ><tr><th colspan="4">Test Case 234-68: Step2&nbsp;<span style="font-size: 80%;">[Version  : 1]</span></th></tr>
+<tr><td width="20%" valign="top"><span class="label">Author:</span></td><td colspan="3">lair2539</td></tr>
+<tr><td colspan="4"><span class="label">Summary:</span><br /><pre>
+Metoda pentru addPayment din service; add_succeed.
+</pre>
+</td></tr><tr><td width="20%" valign="top"><span class="label">Execution type:</span></td><td colspan="3">Automated</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Estimated exec. duration (min):</span></td><td colspan="3"></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Importance:</span></td><td colspan="3">Medium</td></tr>
+<tr><td colspan="4"></td></tr><tr><td > name of the autotest class:</td><td  colspan = "3" >pizzashop.service.PizzaServiceStep2Test</td></tr>
+<tr><td > name of the test method:</td><td  colspan = "3" >pizzashop.service.PizzaServiceStep2Test#add_succeed</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Requirements</span><td colspan="3">lair2539_F01:  AdăugareaUneiPlatiNoi [Version : 1]<br /></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Keywords:</span></td><td colspan="3">&nbsp;None<br/></td></tr>
+</table>
+</div>
+<a name="toc_tc6932"></a><p>&nbsp;</p><div> <table class="tc" width="90%" ><tr><th colspan="4">Test Case 234-69: Step3&nbsp;<span style="font-size: 80%;">[Version  : 1]</span></th></tr>
+<tr><td width="20%" valign="top"><span class="label">Author:</span></td><td colspan="3">lair2539</td></tr>
+<tr><td colspan="4"><span class="label">Summary:</span><br /><pre>
+Metoda pentru addPayment din service
+
+
+</pre>
+</td></tr><tr><td width="20%" valign="top"><span class="label">Execution type:</span></td><td colspan="3">Automated</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Estimated exec. duration (min):</span></td><td colspan="3"></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Importance:</span></td><td colspan="3">Medium</td></tr>
+<tr><td colspan="4"></td></tr><tr><td > name of the autotest class:</td><td  colspan = "3" >pizzashop.service.PizzaServiceStep3Test</td></tr>
+<tr><td > name of the test method:</td><td  colspan = "3" >pizzashop.service.PizzaServiceStep3Test#addPayment_invalidTable</td></tr>
+<tr><td width="20%" valign="top"><span class="label">Requirements</span><td colspan="3">lair2539_F01:  AdăugareaUneiPlatiNoi [Version : 1]<br /></td></tr>
+<tr><td width="20%" valign="top"><span class="label">Keywords:</span></td><td colspan="3">&nbsp;None<br/></td></tr>
+</table>
+</div>
+
+</body>
+</html>
