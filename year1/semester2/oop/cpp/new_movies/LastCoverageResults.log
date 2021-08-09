@@ -1,0 +1,21 @@
+[2019-04-09 16:38:47] [info] Start Program:
+Path:"C:\Users\ilaza\source\repos\new_movies\Debug\new_movies.exe"
+Arguments:
+Working directory: "C:\Users\ilaza\source\repos\new_movies\new_movies\"
+Modules: Selected: C:\Users\ilaza\source\repos\new_movies\Debug\new_movies.exe Excluded: 
+Sources: Selected: C:\Users\ilaza\source\repos\new_movies\new_movies Excluded: ui.cpp Exceptions.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\ilaza\AppData\Local\Temp\0qsekarc.plh 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-04-09 16:38:47] [info] Module: C:\Users\ilaza\source\repos\new_movies\Debug\new_movies.exe is selected because it matches selected pattern: C:\Users\ilaza\source\repos\new_movies\Debug\new_movies.exe
+[2019-04-09 16:38:48] [info] ----------------------------------------------------
+[2019-04-09 16:38:48] [info] Coverage binary generated in file: C:\Users\ilaza\AppData\Local\Temp\0qsekarc.plh
+[2019-04-09 16:38:48] [info] ----------------------------------------------------
